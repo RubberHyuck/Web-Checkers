@@ -1,5 +1,25 @@
 .board {
-    width: 250px;
-    height: 250px;
-    background-color: bisque;
+    background-color: red;
+}
+
+.board > div > span {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+}
+
+.board > div:nth-child(odd) > span:nth-child(odd) {
+    background-color: aliceblue;
+}
+
+.board > div:nth-child(odd) > span:nth-child(even) {
+    background-color: coral;
+}
+
+.board > div:nth-child(even) > span:nth-child(odd) {
+    background-color: coral;
+}
+
+.board > div:nth-child(even) > span:nth-child(even) {
+    background-color: aliceblue;
 }
