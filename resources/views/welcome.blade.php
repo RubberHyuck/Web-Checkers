@@ -39,86 +39,87 @@
                 </div>
 
                 <div class="mt-16">
-                    <p>Boo!</p>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                    <div>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
+                    <div class="board">
+                        <div id="row0">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row1">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row2">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row3">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row4">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row5">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row6">
+                        <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
+                        <div id="row7">
+                            <span id="column0"></span>
+                            <span id="column1"></span>
+                            <span id="column2"></span>
+                            <span id="column3"></span>
+                            <span id="column4"></span>
+                            <span id="column5"></span>
+                            <span id="column6"></span>
+                            <span id="column7"></span>
+                        </div>
                     </div>
                 </div>
 
